@@ -19,7 +19,7 @@ namespace SuperUltaProject2
         public MainWindow()
         {
             InitializeComponent();
-
+            // hello Ivan
         }
     }
 }
