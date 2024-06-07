@@ -20,6 +20,7 @@ namespace SuperUltaProject2
         {
             InitializeComponent();
             // hello Ivan
+            // ivan is a good teacher
         }
     }
 }
